@@ -38,6 +38,9 @@ Step 11:sudo make install
 
 Step 12:sudo make modules_install
 
+![Screenshot from 2022-12-06 10-12-42](https://user-images.githubusercontent.com/111623287/206069551-9f05f8f1-3894-4f06-8625-25b63d2cd90f.png)
+
+
 Step 13:sudo reboot
 
 Step 14:uname -a
@@ -45,6 +48,9 @@ Step 14:uname -a
 Step 15:Modify the kernal code vmx.c and cpuid.c file
 
 Step 16:Updating the KVM kvm-ok
+
+![Screenshot from 2022-12-06 09-52-26](https://user-images.githubusercontent.com/111623287/206069588-d8d43032-bb01-4037-bb28-fea4cc2234ec.png)
+
 
 Step 17:sudo apt install cpu-checker
 
